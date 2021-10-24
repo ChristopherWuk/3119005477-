@@ -11,7 +11,7 @@
 
 [作业github链接Bitter](https://github.com/bitter465/3119005455/tree/main/work_2)
 
-[作业github链接ChristopherWu]()
+[作业github链接ChristopherWu](https://github.com/ChristopherWuk/3119005477-Pair-programming)
 
 ### 2.PSP表格
 
@@ -792,5 +792,5 @@ if __name__ == '__main__':
 
 成员2个人感谢：
 
-
+这次我在项目里主要是起辅助作用，知道了同伴大体的编程思路以后一起合作，审查了一下同伴的初版代码，提出了一些小的方面的意见；同时和伙伴一起讨论bug比一个人思考来得更为宽广。感觉结对项目就是两个人互补，是非常好的一种编程手段，并且还能促进两个人的感情。最后，感谢伙伴的大力资瓷，希望以后还能一起前进。
 
